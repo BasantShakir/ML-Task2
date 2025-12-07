@@ -172,25 +172,11 @@ jupyter notebook
 
 ## 📝 Notes
 
-- All code is simplified for educational purposes
 - Each task includes clear comments explaining the workflow
 - Visualizations are included where applicable
 - The pipeline approach in Task 3 demonstrates production-ready ML practices
 
 ---
 
-## 🎓 Learning Outcomes
 
-By completing these tasks, you will understand:
-- How to implement basic regression and classification algorithms
-- The difference between linear and logistic regression
-- Instance-based learning with KNN
-- Probabilistic classification with Naive Bayes
-- Building robust ML pipelines with preprocessing
-- Handling mixed data types (numerical and categorical)
-- Model evaluation using RMSE
-- Data visualization with matplotlib
 
----
-
-*Last Updated: December 2025*
